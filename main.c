@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
- teste
 
 struct Tcliente
 {
@@ -47,4 +46,6 @@ int main() {
   printf("Olá mundo\n");
   return 0;
 }
-int x
+int {
+  
+}
